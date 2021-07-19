@@ -2,7 +2,7 @@
 
 미로를 통과하는 DQN 방식의 강화학습 레포입니다.
 
-![state](C:\git\tengo\maze\main.gif)
+![state](./main.gif)
 
 
 
